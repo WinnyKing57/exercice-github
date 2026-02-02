@@ -1,0 +1,6 @@
+Notes de développement
+======================
+
+- Penser à ajouter une navigation
+- Créer une page "À propos"
+- Optimiser les images
